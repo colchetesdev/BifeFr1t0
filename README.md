@@ -1,14 +1,63 @@
-## ✍️About me :
-👨🏻‍💻 Systems Development student at Etec Sales Gomes<br>📖 Studying front-end frameworks and API development
 
 
-## 🌐 Social media:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/math.cavalcanti0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-cavalcanti-2b6726303/) 
+<div align="center" style="padding: 40px 20px;">
 
-## 💻 Tech Stack:
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=colchetesdev&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=colchetesdev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=colchetesdev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+  <br/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FFF&center=true&vCenter=true&width=360&lines=%Hey%2C+I'm+Matheus+Cavalcanti%"
+  />
+  <br/><br/>
 
+
+  <div style="
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(12px);
+    padding: 45px;
+    border-radius: 20px;
+    max-width: 850px;
+    border: 2px solid #00bfff;
+    box-shadow: 0 0 25px #00bfff;
+  ">
+
+  <h2 style="color:#00d9ff; text-shadow: 0 0 10px #00d9ff;">💻 About Me</h2>
+  <p>
+    <strong>Systems Development — Etec Sales Gomes</strong><br/>
+    Studying UI, front-end frameworks, and API development.
+  </p>
+
+  <br/>
+  
+<h2 style="color:#00d9ff; text-shadow: 0 0 10px #00d9ff;">🌐 Socials</h2>
+
+  <p align="center">
+    <a href="https://www.instagram.com/math.cavalcanti0" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-cavalcanti-2b6726303/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
+
+  <br/>
+  <h2 style="color:#00d9ff; text-shadow: 0 0 10px #00d9ff;">⚙️ Technologies</h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,npm,mysql,php,laravel" />
+  </p>
+
+  <br/>
+
+  
+
+  <h2 style="color:#00d9ff; text-shadow: 0 0 10px #00d9ff;">📊 GitHub Stats</h2>
+
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=colchetesdev&show_icons=true&theme=tokyonight&hide_border=true" 
+      height="170"
+    />
+  </p>
+
+  <br/><br/>
+
+  </div>
+</div>
